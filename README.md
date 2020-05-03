@@ -1,4 +1,4 @@
-# Challenge-1---Plane-Programming
+# Challenge-1-PlaneProgramming
 Gökyüzündeki engellerin etrafında bir uçak ile uçarak parkur tamamlanacak.
 
 ![](challenge.gif)
